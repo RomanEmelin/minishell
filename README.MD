@@ -45,13 +45,14 @@ With Minishell, you’ll be able to travel through time and come back to problem
   * [Pipe]()
   * [Wait, Waitpid]()
   * [What is EOF?](https://habr.com/ru/company/ruvds/blog/491700/)
+
 ### Videos
 
-1. #### Pipes
+#### Pipes
    * [1](https://www.youtube.com/watch?v=Mqb2dVRe0uo&t=1s&ab_channel=CodeVault)
    * [2](https://www.youtube.com/watch?v=uHH7nHkgZ4w&ab_channel=holidaylvr)
    * [3](https://www.youtube.com/watch?v=6u_iPGVkfZ4&ab_channel=CodeVault)
 
-2. #### Redirection (dup, dup2)
+#### Redirection (dup, dup2)
   * [Redirecting standard output in C](https://www.youtube.com/watch?v=5fnVr-zH-SE&t=130s&ab_channel=CodeVault)
   * [fd, dup()/dup2() system call tutorial](https://www.youtube.com/watch?v=EqndHT606Tw&ab_channel=holidaylvr)
