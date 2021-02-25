@@ -34,7 +34,7 @@ With Minishell, you’ll be able to travel through time and come back to problem
 
 ****;****  - in the command should **_separate_** commands
 <br/>
-[**_Redirections_**](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0) ***<*** ***>*** ***“>>”*** and **_Pipes_** **|**
+[**_Redirections_**](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0) ***<*** ***>*** ***“>>”*** and [**_Pipes_**](https://habr.com/ru/post/195152/) **|**
 <br/>
 [**_Environment variables_**](https://losst.ru/peremennye-okruzheniya-v-linux) ($ followed by characters)
 <br/>
